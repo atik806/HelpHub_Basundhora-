@@ -1,0 +1,9 @@
+fix: resolve login crash when password field left empty
+
+fix: correct email validation regex in signup form
+
+fix: fix broken link in dashboard navigation menu
+
+fix: prevent file upload > 10MB from being accepted
+
+fix: handle API timeout error in weather forecast page

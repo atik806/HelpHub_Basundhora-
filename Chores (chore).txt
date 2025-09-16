@@ -1,0 +1,7 @@
+chore: configure ESLint and Prettier for consistent code style
+
+chore: update dependencies to latest stable versions
+
+chore: add GitHub Actions workflow for CI/CD pipeline
+
+chore: remove unused images and dummy data from repo
